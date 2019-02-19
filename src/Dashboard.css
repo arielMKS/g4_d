@@ -1,0 +1,7 @@
+.Dashboard  h1 {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #61dafb;
+    padding: 0.25em;
+  }

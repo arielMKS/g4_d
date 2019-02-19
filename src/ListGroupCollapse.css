@@ -1,0 +1,29 @@
+.ListGroupCollapse {
+  display: inline;
+}
+
+.ListGroupCollapse .myCard {
+  border: 1px solid #61dafb;
+  width: 100%;
+  padding: .5em;
+}
+
+.ordersTable {
+    font-size: 90%;
+    /* color: yellow; */
+  }
+
+  .navLinkStyle {
+    color: #61dafb !important;
+    text-decoration: underline;
+    display: inline !important;
+  }
+
+/* start media queries here */
+@media (max-width: 1200px) {
+    .ordersTable {
+      /* font-size: calc(1.525rem + 3.3vw); */
+      font-size: 90%;
+      /* color: red; */
+    }
+  }
